@@ -61,6 +61,7 @@ const Projects = () => {
                 </div>
               </div>
             </div>
+          <div className="more-projects justify-content-center">more projects <a onClick={() => window.open("https://github.com/ansh8na7/")}> {"@ github.com/ansh8na7"}</a></div>
           </div>
       </div>
     );

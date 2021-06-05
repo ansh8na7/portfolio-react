@@ -238,6 +238,19 @@ nav ul li{
   color: var(--primary-white);
 }
 
+.projects .more-projects{
+  text-decoration: none;
+  font-weight: 900;
+  font-size: 1.2rem;
+  color: var(--primary-logo-color);
+}
+
+.projects .more-projects a{
+  text-decoration: none;
+  color: var(--primary-logo-color);
+  cursor: pointer;
+}
+
 /******************** experience ********************/
 
 .experience {
