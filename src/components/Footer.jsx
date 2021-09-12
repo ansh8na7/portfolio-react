@@ -1,5 +1,7 @@
 import React from 'react';
 import { Link } from "react-scroll";
+import { BrowserRouter, NavLink } from "react-router-dom";
+import myPdf from '../AnshumanResume.pdf';
 import { 
     FacebookShareButton,
     TwitterShareButton,
@@ -34,8 +36,10 @@ const Footer = () => {
                                 <Link className="footer-nav" smooth={true} offset={-100} to="projects">Projects</Link><br />
                             </div>
                             <div className="col">
-                                <Link className="footer-nav" smooth={true} offset={-100} to="experience">Experience</Link><br />
-                                <Link className="footer-nav" smooth={true} offset={-100} to="portfolio">Portfolio</Link><br />
+                                <Link className="footer-nav" smooth={true} offset={-100} to="education">Education</Link><br />
+                                <BrowserRouter><NavLink className="footer-nav" to={myPdf} target="_blank" download="Anshuman Resume.pdf">
+                                    Résumé
+                                </NavLink></BrowserRouter><br />
                                 <Link className="footer-nav" smooth={true} offset={-100} to="contacts">Contact Me</Link><br />
                             </div>
                         </div>

@@ -3,6 +3,8 @@ import logo from "../logo.png";
 import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import {Link} from "react-scroll";
+import { BrowserRouter, NavLink } from "react-router-dom";
+import myPdf from '../AnshumanResume.pdf'
 
 const Navbar = () => {
     return (
@@ -27,6 +29,7 @@ const Navbar = () => {
               className="collapse navbar-collapse"
               id="navbarSupportedContent"
             >
+              <BrowserRouter>
               <ul className="navbar-nav ms-auto mb-2 mb-lg-0">
                 <li className="nav-item">
                   <Link smooth={true} offset={-100} to="home" className="nav-link active" aria-current="page">
@@ -47,15 +50,9 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link smooth={true} offset={-100} to="experience" className="nav-link">
+                  <Link smooth={true} offset={-100} to="education" className="nav-link">
                     {" "}
-                    experience{" "}
-                  </Link>
-                </li>
-                <li className="nav-item">
-                  <Link smooth={true} offset={-100} to="portfolio" className="nav-link">
-                    {" "}
-                    Portfolio{" "}
+                    Education{" "}
                   </Link>
                 </li>
                 <li className="nav-item">
@@ -64,7 +61,14 @@ const Navbar = () => {
                     contact{" "}
                   </Link>
                 </li>
+                <li className="nav-item">
+                  <NavLink className="nav-link" to={myPdf} target="_blank" download="Anshuman Resume.pdf">
+                    {" "}
+                    Résumé{" "}
+                  </NavLink>
+                </li>
               </ul>
+              </BrowserRouter>
             </div>
           </div>
         </nav>
