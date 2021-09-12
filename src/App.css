@@ -290,6 +290,7 @@ nav ul li{
 .timeline-block-left {
   float: left;
   direction: rtl;
+  text-align: "right";
 }
 .marker {
   width: 1rem;
@@ -313,6 +314,13 @@ nav ul li{
   font-weight: 900;
 }
 
+.timeline-block-left .timeline-content{
+  text-align: right;
+}
+.timeline-list-left{
+  direction: rtl;
+}
+
 /* media */
 @media(max-width: 768px) {
 .experience .container {
@@ -333,7 +341,15 @@ nav ul li{
     direction: ltr; 
     width: 100%;
   }
+
+  .timeline-block-left .timeline-content{
+    text-align: left;
+  }
+  .timeline-list-left{
+    direction: ltr;
+  }
 }
+
 
 
 /******************** portfolio ********************/

@@ -23,11 +23,11 @@ const Education = () => {
           {/* - */}
           <div className="timeline-block timeline-block-left">
             <div className="marker"></div>
-            <div className="timeline-content" style={{ textAlign: "right" }}>
+            <div className="timeline-content">
               <h3>12th Boards- Central Public School</h3>
               <h5>Passing Year: 2017</h5>
               <div>
-                <div dir="rtl">
+                <div className="timeline-list-left">
                   <ul>
                     <li>87.40%</li>
                     <li>CBSE (Central Board of Secondary Education)</li>
