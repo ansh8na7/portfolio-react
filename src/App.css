@@ -226,6 +226,7 @@ nav ul li{
 .projects .box:hover{
   background: var(--primary-logo-color);
   border-bottom: 5px solid var(--primary-dark);
+  cursor: pointer;
 }
 
 .projects .box:hover .icon{
@@ -455,8 +456,8 @@ nav ul li{
 /******************** testimonials ********************/
 
 .testimonials{
- background-image: url(testimonials-bg.jpg);
-  background-size: cover;
+ /* background-image: url(certificates2.jpg); */
+  background-size: 100%;
   background-color: var(--primary-black);
   text-align: center;
   padding-bottom: 4rem;
@@ -502,8 +503,9 @@ nav ul li{
 }
 
 .carousel .slide img{
- width: 10rem !important;
-  border-radius: 50%; 
+ width: 17vw !important;
+ padding-bottom: 10px;
+
 }
 
 .carousel .slide{

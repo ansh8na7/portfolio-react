@@ -2,6 +2,7 @@ import React, { useState } from 'react';
 import emailjs from 'emailjs-com';
 import {useForm} from "react-hook-form";
 import ContactConformation from "./ContactConformation";
+require('dotenv').config();
 
 const Contacts = () => {
 
