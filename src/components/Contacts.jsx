@@ -2,6 +2,8 @@ import React, { useState } from 'react';
 import emailjs from 'emailjs-com';
 import { useForm } from "react-hook-form";
 import ContactConformation from "./ContactConformation";
+require('dotenv').config();
+
 
 const Contacts = () => {
 
@@ -11,7 +13,7 @@ const Contacts = () => {
   const serviceID = process.env.REACT_APP_SERVICE_ID;
   const templateID = process.env.REACT_APP_TEMPLATE_ID;
   const userID = process.env.REACT_APP_USER_ID;
-  // console.log(serviceID, templateID, userID);
+  console.log(serviceID, templateID, userID);
 
   const onSubmit = (data, r) => {
 
