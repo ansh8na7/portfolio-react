@@ -1,17 +1,17 @@
 {
   "files": {
-    "main.css": "/ansh-portfolio/static/css/main.e387ea6d.chunk.css",
-    "main.js": "/ansh-portfolio/static/js/main.cfbe605c.chunk.js",
-    "main.js.map": "/ansh-portfolio/static/js/main.cfbe605c.chunk.js.map",
+    "main.css": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css",
+    "main.js": "/ansh-portfolio/static/js/main.161132c5.chunk.js",
+    "main.js.map": "/ansh-portfolio/static/js/main.161132c5.chunk.js.map",
     "runtime-main.js": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js",
     "runtime-main.js.map": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js.map",
-    "static/css/2.e2e54199.chunk.css": "/ansh-portfolio/static/css/2.e2e54199.chunk.css",
-    "static/js/2.eeb1bed5.chunk.js": "/ansh-portfolio/static/js/2.eeb1bed5.chunk.js",
-    "static/js/2.eeb1bed5.chunk.js.map": "/ansh-portfolio/static/js/2.eeb1bed5.chunk.js.map",
+    "static/css/2.1ac204e5.chunk.css": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css",
+    "static/js/2.507d1dba.chunk.js": "/ansh-portfolio/static/js/2.507d1dba.chunk.js",
+    "static/js/2.507d1dba.chunk.js.map": "/ansh-portfolio/static/js/2.507d1dba.chunk.js.map",
     "index.html": "/ansh-portfolio/index.html",
-    "static/css/2.e2e54199.chunk.css.map": "/ansh-portfolio/static/css/2.e2e54199.chunk.css.map",
-    "static/css/main.e387ea6d.chunk.css.map": "/ansh-portfolio/static/css/main.e387ea6d.chunk.css.map",
-    "static/js/2.eeb1bed5.chunk.js.LICENSE.txt": "/ansh-portfolio/static/js/2.eeb1bed5.chunk.js.LICENSE.txt",
+    "static/css/2.1ac204e5.chunk.css.map": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css.map",
+    "static/css/main.7c7e1067.chunk.css.map": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css.map",
+    "static/js/2.507d1dba.chunk.js.LICENSE.txt": "/ansh-portfolio/static/js/2.507d1dba.chunk.js.LICENSE.txt",
     "static/media/AnshumanResume.dd775789.pdf": "/ansh-portfolio/static/media/AnshumanResume.dd775789.pdf",
     "static/media/covid.f88f7543.png": "/ansh-portfolio/static/media/covid.f88f7543.png",
     "static/media/deeplearning.8032278d.jpg": "/ansh-portfolio/static/media/deeplearning.8032278d.jpg",
@@ -25,9 +25,9 @@
   },
   "entrypoints": [
     "static/js/runtime-main.1121b5c0.js",
-    "static/css/2.e2e54199.chunk.css",
-    "static/js/2.eeb1bed5.chunk.js",
-    "static/css/main.e387ea6d.chunk.css",
-    "static/js/main.cfbe605c.chunk.js"
+    "static/css/2.1ac204e5.chunk.css",
+    "static/js/2.507d1dba.chunk.js",
+    "static/css/main.7c7e1067.chunk.css",
+    "static/js/main.161132c5.chunk.js"
   ]
 }
