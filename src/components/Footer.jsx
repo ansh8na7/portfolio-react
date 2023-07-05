@@ -1,7 +1,7 @@
 import React from 'react';
 import { Link } from "react-scroll";
 import { BrowserRouter, NavLink } from "react-router-dom";
-import myPdf from '../AnshumanResume.pdf';
+import myPdf from '../resumeList/AnshumanResume_july23.pdf'
 import { 
     FacebookShareButton,
     TwitterShareButton,

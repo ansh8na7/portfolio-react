@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import {Link} from "react-scroll";
 import { BrowserRouter, NavLink } from "react-router-dom";
-import myPdf from '../AnshumanResume.pdf'
+import myPdf from '../resumeList/AnshumanResume_july23.pdf'
 
 const Navbar = () => {
     return (
