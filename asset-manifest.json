@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css",
-    "main.js": "/ansh-portfolio/static/js/main.161132c5.chunk.js",
-    "main.js.map": "/ansh-portfolio/static/js/main.161132c5.chunk.js.map",
+    "main.js": "/ansh-portfolio/static/js/main.f235f873.chunk.js",
+    "main.js.map": "/ansh-portfolio/static/js/main.f235f873.chunk.js.map",
     "runtime-main.js": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js",
     "runtime-main.js.map": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js.map",
     "static/css/2.1ac204e5.chunk.css": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css",
@@ -12,7 +12,7 @@
     "static/css/2.1ac204e5.chunk.css.map": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css.map",
     "static/css/main.7c7e1067.chunk.css.map": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css.map",
     "static/js/2.507d1dba.chunk.js.LICENSE.txt": "/ansh-portfolio/static/js/2.507d1dba.chunk.js.LICENSE.txt",
-    "static/media/AnshumanResume.dd775789.pdf": "/ansh-portfolio/static/media/AnshumanResume.dd775789.pdf",
+    "static/media/AnshumanResume_july23.b194ac47.pdf": "/ansh-portfolio/static/media/AnshumanResume_july23.b194ac47.pdf",
     "static/media/covid.f88f7543.png": "/ansh-portfolio/static/media/covid.f88f7543.png",
     "static/media/deeplearning.8032278d.jpg": "/ansh-portfolio/static/media/deeplearning.8032278d.jpg",
     "static/media/faceRecognition.04dc54bf.jpg": "/ansh-portfolio/static/media/faceRecognition.04dc54bf.jpg",
@@ -28,6 +28,6 @@
     "static/css/2.1ac204e5.chunk.css",
     "static/js/2.507d1dba.chunk.js",
     "static/css/main.7c7e1067.chunk.css",
-    "static/js/main.161132c5.chunk.js"
+    "static/js/main.f235f873.chunk.js"
   ]
 }
