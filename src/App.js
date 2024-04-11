@@ -40,10 +40,9 @@ function App() {
       <Navbar />
       <Header />
       <AboutMe />
-      <Projects />
       <Experience />
-      <Education />
-
+      {/* <Education /> */}
+      <Projects />
       <Certificates />
       <Contacts />
       <Footer />

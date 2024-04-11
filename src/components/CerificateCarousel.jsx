@@ -6,6 +6,7 @@ import { Carousel } from "react-responsive-carousel";
 import mernAngelaYu from "../images/certificates/mern_angelayu.jpg";
 import django from "../images/certificates/python_django.jpg";
 import deeplearning from "../images/certificates/deeplearning.jpg";
+import az900 from "../images/certificates/azure_az900.png"
 
 const CerificateCarousel = () => {
     return (
@@ -17,6 +18,19 @@ const CerificateCarousel = () => {
         autoPlay={true}
         interval={3000}
       >
+        <>
+          <img src={az900} alt="Azure - AZ900" />
+          <div className="myCarousel">
+            <h3>Azure Fundamentals <br/> (A-Z 900)</h3>
+            <p>
+              Azure fundamentals Cloud certificate ( A-Z 900)
+              <br />
+              <span style={{cursor:"pointer"}} onClick={()=>{
+                window.open("https://learn.microsoft.com/api/credentials/share/en-us/AnshumanNarayan-2631/9517ADE49B11920B?sharingId=1A47C319F7356778");
+              }}><u>check authenticity</u></span>
+            </p>
+          </div>
+        </>
         <>
           <img src={mernAngelaYu} alt="mern angela yu" />
           <div className="myCarousel">
@@ -48,6 +62,7 @@ const CerificateCarousel = () => {
             </p>
           </div>
         </>
+        
       </Carousel>
     );
 }

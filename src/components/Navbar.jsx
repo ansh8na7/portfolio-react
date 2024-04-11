@@ -4,7 +4,7 @@ import { FontAwesomeIcon } from "@fortawesome/react-fontawesome";
 import { faBars } from "@fortawesome/free-solid-svg-icons";
 import {Link} from "react-scroll";
 import { BrowserRouter, NavLink } from "react-router-dom";
-import myPdf from '../resumeList/AnshumanResume_july23.pdf'
+import myPdf from '../resumeList/resume11April2024.pdf'
 
 const Navbar = () => {
     return (
@@ -44,15 +44,21 @@ const Navbar = () => {
                   </Link>
                 </li>
                 <li className="nav-item">
+                  <Link smooth={true} offset={-100} to="experience" className="nav-link">
+                    {" "}
+                    Experience{" "}
+                  </Link>
+                </li>
+                <li className="nav-item">
                   <Link smooth={true} offset={-100} to="projects" className="nav-link">
                     {" "}
                     projects{" "}
                   </Link>
                 </li>
                 <li className="nav-item">
-                  <Link smooth={true} offset={-100} to="education" className="nav-link">
+                  <Link smooth={true} offset={-100} to="testimonials" className="nav-link">
                     {" "}
-                    Education{" "}
+                    Certificates{" "}
                   </Link>
                 </li>
                 <li className="nav-item">
