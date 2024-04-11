@@ -1,10 +1,4 @@
 /*
-      object-assign
-      (c) Sindre Sorhus
-      @license MIT
-      */
-
-/*
     object-assign
     (c) Sindre Sorhus
     @license MIT
@@ -25,6 +19,12 @@ object-assign
      *   License(s): MIT
      * 
      */
+
+/*!
+  * Bootstrap v5.0.1 (https://getbootstrap.com/)
+  * Copyright 2011-2021 The Bootstrap Authors (https://github.com/twbs/bootstrap/graphs/contributors)
+  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
+  */
 
 /*!
   Copyright (c) 2018 Jed Watson.

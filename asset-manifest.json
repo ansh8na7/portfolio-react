@@ -1,33 +1,24 @@
 {
   "files": {
-    "main.css": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css",
-    "main.js": "/ansh-portfolio/static/js/main.f235f873.chunk.js",
-    "main.js.map": "/ansh-portfolio/static/js/main.f235f873.chunk.js.map",
-    "runtime-main.js": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js",
-    "runtime-main.js.map": "/ansh-portfolio/static/js/runtime-main.1121b5c0.js.map",
-    "static/css/2.1ac204e5.chunk.css": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css",
-    "static/js/2.507d1dba.chunk.js": "/ansh-portfolio/static/js/2.507d1dba.chunk.js",
-    "static/js/2.507d1dba.chunk.js.map": "/ansh-portfolio/static/js/2.507d1dba.chunk.js.map",
+    "main.css": "/ansh-portfolio/static/css/main.6e8ea260.css",
+    "main.js": "/ansh-portfolio/static/js/main.7cf13590.js",
+    "static/media/mern_angelayu.jpg": "/ansh-portfolio/static/media/mern_angelayu.dc527e96aa815af30620.jpg",
+    "static/media/python_django.jpg": "/ansh-portfolio/static/media/python_django.c6d509aa6fb0cb6992c8.jpg",
+    "static/media/portfolio-react.png": "/ansh-portfolio/static/media/portfolio-react.3e677eb6396b8c666657.png",
+    "static/media/me.jpeg": "/ansh-portfolio/static/media/me.7ac117a4857c5afec92c.jpeg",
+    "static/media/azure_az900.png": "/ansh-portfolio/static/media/azure_az900.ed61932fbc96d23ed077.png",
+    "static/media/faceRecognition.jpg": "/ansh-portfolio/static/media/faceRecognition.04dc54bf08f9e4ca1703.jpg",
+    "static/media/deeplearning.jpg": "/ansh-portfolio/static/media/deeplearning.8032278dcb379f944195.jpg",
+    "static/media/covid.png": "/ansh-portfolio/static/media/covid.f88f754389a573cb569c.png",
+    "static/media/wall-and-laptop-background.jpg": "/ansh-portfolio/static/media/wall-and-laptop-background.f9e274f49e7f72950a2f.jpg",
+    "static/media/to-do-list.png": "/ansh-portfolio/static/media/to-do-list.4c02bb773ec4a2c6ae2f.png",
+    "static/media/resume11April2024.pdf": "/ansh-portfolio/static/media/resume11April2024.fa5a4ee3d8f384cfb005.pdf",
     "index.html": "/ansh-portfolio/index.html",
-    "static/css/2.1ac204e5.chunk.css.map": "/ansh-portfolio/static/css/2.1ac204e5.chunk.css.map",
-    "static/css/main.7c7e1067.chunk.css.map": "/ansh-portfolio/static/css/main.7c7e1067.chunk.css.map",
-    "static/js/2.507d1dba.chunk.js.LICENSE.txt": "/ansh-portfolio/static/js/2.507d1dba.chunk.js.LICENSE.txt",
-    "static/media/AnshumanResume_july23.b194ac47.pdf": "/ansh-portfolio/static/media/AnshumanResume_july23.b194ac47.pdf",
-    "static/media/covid.f88f7543.png": "/ansh-portfolio/static/media/covid.f88f7543.png",
-    "static/media/deeplearning.8032278d.jpg": "/ansh-portfolio/static/media/deeplearning.8032278d.jpg",
-    "static/media/faceRecognition.04dc54bf.jpg": "/ansh-portfolio/static/media/faceRecognition.04dc54bf.jpg",
-    "static/media/me.40702e04.jpg": "/ansh-portfolio/static/media/me.40702e04.jpg",
-    "static/media/mern_angelayu.dc527e96.jpg": "/ansh-portfolio/static/media/mern_angelayu.dc527e96.jpg",
-    "static/media/portfolio-react.3e677eb6.png": "/ansh-portfolio/static/media/portfolio-react.3e677eb6.png",
-    "static/media/python_django.c6d509aa.jpg": "/ansh-portfolio/static/media/python_django.c6d509aa.jpg",
-    "static/media/to-do-list.4c02bb77.png": "/ansh-portfolio/static/media/to-do-list.4c02bb77.png",
-    "static/media/App.css": "/ansh-portfolio/static/media/wall-and-laptop-background.f9e274f4.jpg"
+    "main.6e8ea260.css.map": "/ansh-portfolio/static/css/main.6e8ea260.css.map",
+    "main.7cf13590.js.map": "/ansh-portfolio/static/js/main.7cf13590.js.map"
   },
   "entrypoints": [
-    "static/js/runtime-main.1121b5c0.js",
-    "static/css/2.1ac204e5.chunk.css",
-    "static/js/2.507d1dba.chunk.js",
-    "static/css/main.7c7e1067.chunk.css",
-    "static/js/main.f235f873.chunk.js"
+    "static/css/main.6e8ea260.css",
+    "static/js/main.7cf13590.js"
   ]
 }
