@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ansh-portfolio/static/css/main.6e8ea260.css",
-    "main.js": "/ansh-portfolio/static/js/main.7cf13590.js",
+    "main.js": "/ansh-portfolio/static/js/main.f122fdec.js",
     "static/media/mern_angelayu.jpg": "/ansh-portfolio/static/media/mern_angelayu.dc527e96aa815af30620.jpg",
     "static/media/python_django.jpg": "/ansh-portfolio/static/media/python_django.c6d509aa6fb0cb6992c8.jpg",
     "static/media/portfolio-react.png": "/ansh-portfolio/static/media/portfolio-react.3e677eb6396b8c666657.png",
@@ -15,10 +15,10 @@
     "static/media/resume11April2024.pdf": "/ansh-portfolio/static/media/resume11April2024.fa5a4ee3d8f384cfb005.pdf",
     "index.html": "/ansh-portfolio/index.html",
     "main.6e8ea260.css.map": "/ansh-portfolio/static/css/main.6e8ea260.css.map",
-    "main.7cf13590.js.map": "/ansh-portfolio/static/js/main.7cf13590.js.map"
+    "main.f122fdec.js.map": "/ansh-portfolio/static/js/main.f122fdec.js.map"
   },
   "entrypoints": [
     "static/css/main.6e8ea260.css",
-    "static/js/main.7cf13590.js"
+    "static/js/main.f122fdec.js"
   ]
 }
